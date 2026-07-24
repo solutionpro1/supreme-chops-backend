@@ -1,0 +1,15 @@
+[
+    {
+        "timestamp": "2026-07-10 06:57:04",
+        "reference": "xj17xlmzhe",
+        "customer_email": "junioradekeyeolamide@gmail.com",
+        "total_bill_with_vat": 40850.0,
+        "ordered_items": [
+            {
+                "name": "Belle-Full Platter",
+                "qty": 1,
+                "unit_price": 38000.0
+            }
+        ]
+    }
+]
